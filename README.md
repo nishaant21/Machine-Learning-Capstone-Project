@@ -1,4 +1,4 @@
-# Machine-Learning-Capstone-Project
+# ML Project: Bank Customer Churn Prediction
 Project on Bank Customer Churn prediction: Aims to analyze customer churn and derive insights to help the bank improve customer retention strategies. Understanding the factors that contribute to churn is crucial for businesses to retain customers and maintain long-term profitability.
 
 #Goal: The goal of this analysis is to understand the factors influencing customer churn in the bank. By exploring various features such as customer demographics, financial attributes, and behavioral patterns, the aim is to build a predictive model to identify key drivers of customer churn. The analysis seeks to uncover insights that can help in retaining customers and improving overall customer satisfaction.
